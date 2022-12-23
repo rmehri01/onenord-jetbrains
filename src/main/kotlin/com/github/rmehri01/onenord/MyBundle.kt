@@ -1,4 +1,4 @@
-package com.github.rmehri01.onenordjetbrains
+package com.github.rmehri01.onenord
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls

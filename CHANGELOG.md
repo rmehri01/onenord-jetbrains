@@ -1,6 +1,6 @@
 <!-- Keep a Changelog guide -> https://keepachangelog.com -->
 
-# onenord-jetbrains Changelog
+# OneNord Changelog
 
 ## [Unreleased]
 ### Added

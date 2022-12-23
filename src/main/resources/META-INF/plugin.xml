@@ -1,18 +1,12 @@
 <!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
 <idea-plugin>
-    <id>com.github.rmehri01.onenordjetbrains</id>
-    <name>IntelliJ Platform Plugin onenord-jetbrains</name>
+    <id>com.github.rmehri01.onenord</id>
+    <name>OneNord</name>
+    <version>@version@</version>
     <vendor>rmehri01</vendor>
 
     <depends>com.intellij.modules.platform</depends>
 
     <extensions defaultExtensionNs="com.intellij">
-        <applicationService serviceImplementation="com.github.rmehri01.onenordjetbrains.services.MyApplicationService"/>
-        <projectService serviceImplementation="com.github.rmehri01.onenordjetbrains.services.MyProjectService"/>
     </extensions>
-
-    <applicationListeners>
-        <listener class="com.github.rmehri01.onenordjetbrains.listeners.MyProjectManagerListener"
-                  topic="com.intellij.openapi.project.ProjectManagerListener"/>
-    </applicationListeners>
 </idea-plugin>

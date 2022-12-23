@@ -1,7 +1,7 @@
-package com.github.rmehri01.onenordjetbrains.services
+package com.github.rmehri01.onenord.services
 
 import com.intellij.openapi.project.Project
-import com.github.rmehri01.onenordjetbrains.MyBundle
+import com.github.rmehri01.onenord.MyBundle
 
 class MyProjectService(project: Project) {
 

@@ -1,9 +1,9 @@
-package com.github.rmehri01.onenordjetbrains.listeners
+package com.github.rmehri01.onenord.listeners
 
 import com.intellij.openapi.components.service
 import com.intellij.openapi.project.Project
 import com.intellij.openapi.project.ProjectManagerListener
-import com.github.rmehri01.onenordjetbrains.services.MyProjectService
+import com.github.rmehri01.onenord.services.MyProjectService
 
 internal class MyProjectManagerListener : ProjectManagerListener {
 
