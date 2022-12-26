@@ -8,5 +8,6 @@
     <depends>com.intellij.modules.platform</depends>
 
     <extensions defaultExtensionNs="com.intellij">
+        <themeProvider id="com.github.rmehri01.onenord" path="/themes/onenord.theme.json"/>
     </extensions>
 </idea-plugin>
