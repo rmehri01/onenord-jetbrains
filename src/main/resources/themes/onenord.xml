@@ -1,22 +1,23 @@
 <scheme name="OneNord" version="142" parent_scheme="Darcula">
     <colors>
-        <option name="ADDED_LINES_COLOR" value="549159" />
-        <option name="ANNOTATIONS_COLOR" value="8d9199" />
-        <option name="ANNOTATIONS_LAST_COMMIT_COLOR" value="ced0d6" />
+        <option name="ADDED_LINES_COLOR" value="91c187" />
+        <option name="ANNOTATIONS_COLOR" value="7e8491" />
+        <option name="ANNOTATIONS_LAST_COMMIT_COLOR" value="c8d0e0" />
         <option name="CARET_COLOR" value="c8d0e0" />
         <option name="CARET_ROW_COLOR" value="353b49" />
         <option name="CONSOLE_BACKGROUND_KEY" value="2e3440" />
-        <option name="DELETED_LINES_COLOR" value="868a91" />
+        <option name="DELETED_LINES_COLOR" value="7e8491" />
         <option name="DIFF_SEPARATORS_BACKGROUND" value="2b2d30" />
+        <option name="DIFF_SEPARATOR_WAVE" value="4c566a" />
         <option name="DOCUMENTATION_COLOR" value="353b49" />
         <option name="DOC_COMMENT_GUIDE" value="6c7a96" />
         <option name="DOC_COMMENT_LINK" value="81a1c1" />
         <option name="ERROR_HINT" value="402929" />
         <option name="FOLDED_TEXT_BORDER_COLOR" value="" />
         <option name="GUTTER_BACKGROUND" value="2e3440" />
-        <option name="IGNORED_ADDED_LINES_BORDER_COLOR" value="549159" />
-        <option name="IGNORED_DELETED_LINES_BORDER_COLOR" value="868a91" />
-        <option name="IGNORED_MODIFIED_LINES_BORDER_COLOR" value="375fad" />
+        <option name="IGNORED_ADDED_LINES_BORDER_COLOR" value="91c187" />
+        <option name="IGNORED_DELETED_LINES_BORDER_COLOR" value="7e8491" />
+        <option name="IGNORED_MODIFIED_LINES_BORDER_COLOR" value="5e81ac" />
         <option name="INDENT_GUIDE" value="4c566a" />
         <option name="INFORMATION_HINT" value="353b49" />
         <option name="INLINE_REFACTORING_SETTINGS_DEFAULT" value="434c5e" />
@@ -26,7 +27,7 @@
         <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="c8d0e0" />
         <option name="LOOKUP_COLOR" value="353b49" />
         <option name="METHOD_SEPARATORS_COLOR" value="434c5e" />
-        <option name="MODIFIED_LINES_COLOR" value="375fad" />
+        <option name="MODIFIED_LINES_COLOR" value="5e81ac" />
         <option name="PROMOTION_PANE" value="25324d" />
         <option name="QUESTION_HINT" value="25324d" />
         <option name="RECENT_LOCATIONS_SELECTION" value="353b49" />
@@ -44,7 +45,7 @@
         <option name="VCS_ANNOTATIONS_COLOR_5" value="22252e" />
         <option name="VISUAL_INDENT_GUIDE" value="3f4758" />
         <option name="WHITESPACES" value="7e8491" />
-        <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="52433d" />
+        <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="594d35" />
     </colors>
     <attributes>
         <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
@@ -481,6 +482,18 @@
             <value>
                 <option name="EFFECT_COLOR" value="c8d0e0" />
                 <option name="EFFECT_TYPE" value="3" />
+            </value>
+        </option>
+        <option name="DIFF_CONFLICT">
+            <value>
+                <option name="BACKGROUND" value="913a3a" />
+                <option name="ERROR_STRIPE_COLOR" value="b84f59" />
+            </value>
+        </option>
+        <option name="DIFF_DELETED">
+            <value>
+                <option name="BACKGROUND" value="3f4758" />
+                <option name="ERROR_STRIPE_COLOR" value="7e8491" />
             </value>
         </option>
         <option name="DUPLICATE_FROM_SERVER">
