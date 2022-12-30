@@ -6,7 +6,7 @@
         <option name="CARET_COLOR" value="c8d0e0"/>
         <option name="CARET_ROW_COLOR" value="353b49"/>
         <option name="CONSOLE_BACKGROUND_KEY" value="2e3440"/>
-        <option name="DELETED_LINES_COLOR" value="7e8491"/>
+        <option name="DELETED_LINES_COLOR" value="d57780"/>
         <option name="DIFF_SEPARATORS_BACKGROUND" value="2b2d30"/>
         <option name="DIFF_SEPARATOR_WAVE" value="4c566a"/>
         <option name="DOCUMENTATION_COLOR" value="353b49"/>
@@ -16,7 +16,7 @@
         <option name="FOLDED_TEXT_BORDER_COLOR" value=""/>
         <option name="GUTTER_BACKGROUND" value="2e3440"/>
         <option name="IGNORED_ADDED_LINES_BORDER_COLOR" value="91c187"/>
-        <option name="IGNORED_DELETED_LINES_BORDER_COLOR" value="7e8491"/>
+        <option name="IGNORED_DELETED_LINES_BORDER_COLOR" value="d57780"/>
         <option name="IGNORED_MODIFIED_LINES_BORDER_COLOR" value="5e81ac"/>
         <option name="INDENT_GUIDE" value="4c566a"/>
         <option name="INFORMATION_HINT" value="353b49"/>
@@ -53,7 +53,7 @@
         <option name="VCS_ANNOTATIONS_COLOR_5" value="22252e"/>
         <option name="VISUAL_INDENT_GUIDE" value="3f4758"/>
         <option name="WHITESPACES" value="7e8491"/>
-        <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="594d35"/>
+        <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="ebcb8b"/>
     </colors>
     <attributes>
         <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
@@ -568,6 +568,18 @@
                 <option name="ERROR_STRIPE_COLOR" value="7e8491"/>
             </value>
         </option>
+        <option name="DIFF_INSERTED">
+            <value>
+                <option name="BACKGROUND" value="294436"/>
+                <option name="ERROR_STRIPE_COLOR" value="91c187"/>
+            </value>
+        </option>
+        <option name="DIFF_MODIFIED">
+            <value>
+                <option name="BACKGROUND" value="385570"/>
+                <option name="ERROR_STRIPE_COLOR" value="60a7e3"/>
+            </value>
+        </option>
         <option name="DUPLICATE_FROM_SERVER">
             <value>
                 <option name="BACKGROUND" value="65523b"/>
@@ -875,9 +887,6 @@
                 <option name="FOREGROUND" value="6f737a"/>
             </value>
         </option>
-        <option name="PHP_ALIAS_REFERENCE" baseAttributes="PHP_CLASS"/>
-        <option name="PHP_CONSTANT" baseAttributes="DEFAULT_CONSTANT"/>
-        <option name="PHP_EXEC_COMMAND_ID" baseAttributes="DEFAULT_STRING"/>
         <option name="OC.CONDITIONALLY_NOT_COMPILED">
             <value>
                 <option name="FOREGROUND" value="7e8491"/>
@@ -924,6 +933,9 @@
                 <option name="FOREGROUND" value="ebcb8b"/>
             </value>
         </option>
+        <option name="PHP_ALIAS_REFERENCE" baseAttributes="PHP_CLASS"/>
+        <option name="PHP_CONSTANT" baseAttributes="DEFAULT_CONSTANT"/>
+        <option name="PHP_EXEC_COMMAND_ID" baseAttributes="DEFAULT_STRING"/>
         <option name="PHP_NAMED_ARGUMENT">
             <value>
                 <option name="FOREGROUND" value="d08f70"/>
