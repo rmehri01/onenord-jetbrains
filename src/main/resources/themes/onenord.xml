@@ -878,6 +878,52 @@
         <option name="PHP_ALIAS_REFERENCE" baseAttributes="PHP_CLASS"/>
         <option name="PHP_CONSTANT" baseAttributes="DEFAULT_CONSTANT"/>
         <option name="PHP_EXEC_COMMAND_ID" baseAttributes="DEFAULT_STRING"/>
+        <option name="OC.CONDITIONALLY_NOT_COMPILED">
+            <value>
+                <option name="FOREGROUND" value="7e8491"/>
+            </value>
+        </option>
+        <option name="OC.DIRECTIVE">
+            <value>
+                <option name="FOREGROUND" value="b589d3"/>
+            </value>
+        </option>
+        <option name="OC.MACRONAME">
+            <value>
+                <option name="FOREGROUND" value="d57780"/>
+            </value>
+        </option>
+        <option name="OC.NAMESPACE_LIKE">
+            <value>
+                <option name="FOREGROUND" value="ebcb8b"/>
+            </value>
+        </option>
+        <option name="OC.OVERLOADED_OPERATOR">
+            <value>
+                <option name="FOREGROUND" value="5e81ac"/>
+            </value>
+        </option>
+        <option name="OC.STD_INITIALIZER_LIST">
+            <value>
+                <option name="FOREGROUND" value="5e81ac"/>
+                <option name="FONT_TYPE" value="1"/>
+            </value>
+        </option>
+        <option name="OC.STRUCT_FIELD">
+            <value>
+                <option name="FOREGROUND" value="d57780"/>
+            </value>
+        </option>
+        <option name="OC.STRUCT_LIKE">
+            <value>
+                <option name="FOREGROUND" value="ebcb8b"/>
+            </value>
+        </option>
+        <option name="OC.TYPEDEF">
+            <value>
+                <option name="FOREGROUND" value="ebcb8b"/>
+            </value>
+        </option>
         <option name="PHP_NAMED_ARGUMENT">
             <value>
                 <option name="FOREGROUND" value="d08f70"/>
@@ -1157,6 +1203,11 @@
         <option name="YAML_TEXT">
             <value>
                 <option name="FOREGROUND" value="91c187"/>
+            </value>
+        </option>
+        <option name="com.jetbrains.cmake.COMMAND">
+            <value>
+                <option name="FOREGROUND" value="ebcb8b"/>
             </value>
         </option>
         <option name="com.plan9.IDENTIFIER">
