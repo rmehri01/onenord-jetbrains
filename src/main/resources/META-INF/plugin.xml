@@ -3,7 +3,7 @@
     <id>com.github.rmehri01.onenord</id>
     <name>OneNord</name>
     <version>@version@</version>
-    <vendor>rmehri01</vendor>
+    <vendor email="ryan.mehri1@gmail.com">rmehri01</vendor>
 
     <depends>com.intellij.modules.platform</depends>
 
