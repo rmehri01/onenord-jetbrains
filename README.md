@@ -5,8 +5,17 @@
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/PLUGIN_ID)
 
 <!-- Plugin description -->
-OneNord combines the clean and subtle blues of the Nord theme with the vibrant and familiar colors of
-the Atom One Dark theme.
+
+## About
+
+OneNord is a clean and vibrant theme that combines the Nord and Atom One Dark color palettes.
+
+## Extras
+
+There is also a [Neovim version](https://github.com/rmehri01/onenord.nvim) of this theme, along with
+some [extra color configs](https://github.com/rmehri01/onenord.nvim/tree/main/extras) for your terminal if you are
+interested!
+
 <!-- Plugin description end -->
 
 ## Installation
