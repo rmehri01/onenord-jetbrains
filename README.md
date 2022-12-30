@@ -1,8 +1,11 @@
 # 🏔 OneNord for JetBrains IDEs
 
 ![Build](https://github.com/rmehri01/onenord-jetbrains/workflows/Build/badge.svg)
-[![Version](https://img.shields.io/jetbrains/plugin/v/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/PLUGIN_ID)
-[![Downloads](https://img.shields.io/jetbrains/plugin/d/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/PLUGIN_ID)
+[![Version](https://img.shields.io/jetbrains/plugin/v/20772.svg)](https://plugins.jetbrains.com/plugin/20772)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/20772.svg)](https://plugins.jetbrains.com/plugin/20772)
+
+![Screenshot of some Java code to showcase the theme](https://user-images.githubusercontent.com/52933714/210113058-cc1127f6-ab02-4a1f-82ef-ec668ecc067d.png)
+![Screenshot of the project screen](https://user-images.githubusercontent.com/52933714/210112875-e2241a31-b46c-4e47-b278-9df7133bca13.png)
 
 <!-- Plugin description -->
 
