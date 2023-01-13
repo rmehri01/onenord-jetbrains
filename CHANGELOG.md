@@ -4,6 +4,8 @@
 
 ## [Unreleased]
 
+### Fixed
+
 - Improve editor syntax highlighting for various languages including Kotlin, Ruby, Rust, Go, and YAML.
 
 ## [0.0.1] - 2022-12-30
