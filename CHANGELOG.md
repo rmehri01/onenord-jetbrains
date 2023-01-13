@@ -6,6 +6,8 @@
 
 ## [0.0.2] - 2023-01-13
 
+First automated release through GitHub Actions!
+
 ### Fixed
 - Improve editor syntax highlighting for various languages including Kotlin, Ruby, Rust, Go, and YAML.
 
