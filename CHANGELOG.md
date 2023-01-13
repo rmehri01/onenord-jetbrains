@@ -5,7 +5,6 @@
 ## [Unreleased]
 
 ## [0.0.2] - 2023-01-13
-
 First automated release through GitHub Actions!
 
 ### Fixed
