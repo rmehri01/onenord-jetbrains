@@ -4,6 +4,8 @@
 
 ## [Unreleased]
 
+## [0.0.3] - 2023-02-02
+
 ### Fixed
 - Minor syntax highlighting changes for Java and PHP.
 
@@ -20,6 +22,7 @@ First automated release through GitHub Actions!
 - Initial UI and editor color theming, still subject to change so any suggestions are highly appreciated!
 - Initial support for most popular languages.
 
-[Unreleased]: https://github.com/rmehri01/onenord-jetbrains/compare/v0.0.2...HEAD
+[Unreleased]: https://github.com/rmehri01/onenord-jetbrains/compare/v0.0.3...HEAD
+[0.0.3]: https://github.com/rmehri01/onenord-jetbrains/compare/v0.0.2...v0.0.3
 [0.0.2]: https://github.com/rmehri01/onenord-jetbrains/compare/v0.0.1...v0.0.2
 [0.0.1]: https://github.com/rmehri01/onenord-jetbrains/commits/v0.0.1
