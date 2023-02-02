@@ -694,7 +694,7 @@
         </option>
         <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="b189f5"/>
+                <option name="FOREGROUND" value="d08f70"/>
             </value>
         </option>
         <option name="INACTIVE_HYPERLINK_ATTRIBUTES">
@@ -971,6 +971,7 @@
                 <option name="FOREGROUND" value="d08f70"/>
             </value>
         </option>
+        <option name="PHP_PARAMETER" baseAttributes="DEFAULT_PARAMETER"/>
         <option name="PHP_VAR" baseAttributes="DEFAULT_LOCAL_VARIABLE"/>
         <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="DEFAULT_INVALID_STRING_ESCAPE"/>
         <option name="PROPERTIES.KEY">

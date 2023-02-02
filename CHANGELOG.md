@@ -4,6 +4,9 @@
 
 ## [Unreleased]
 
+### Fixed
+- Minor syntax highlighting changes for Java and PHP.
+
 ## [0.0.2] - 2023-01-13
 First automated release through GitHub Actions!
 
