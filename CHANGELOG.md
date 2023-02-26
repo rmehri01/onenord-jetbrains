@@ -4,6 +4,8 @@
 
 ## [Unreleased]
 
+- Use undercurl for diagnostics instead of bolded underline, making it easier to read. [#5](https://github.com/rmehri01/onenord-jetbrains/issues/5)
+
 ## [0.0.3] - 2023-02-01
 
 ### Fixed
