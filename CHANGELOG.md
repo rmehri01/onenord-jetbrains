@@ -4,6 +4,9 @@
 
 ## [Unreleased]
 
+### Added
+- Support for version 2023.1
+
 ## [0.0.4] - 2023-02-27
 
 ### Fixed
