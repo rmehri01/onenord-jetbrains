@@ -4,6 +4,8 @@
 
 ## [Unreleased]
 
+## [0.0.5] - 2023-03-28
+
 ### Added
 - Support for version 2023.1
 - Theming for the status bar memory indicator.
@@ -31,7 +33,8 @@ First automated release through GitHub Actions!
 - Initial UI and editor color theming, still subject to change so any suggestions are highly appreciated!
 - Initial support for most popular languages.
 
-[Unreleased]: https://github.com/rmehri01/onenord-jetbrains/compare/v0.0.4...HEAD
+[Unreleased]: https://github.com/rmehri01/onenord-jetbrains/compare/v0.0.5...HEAD
+[0.0.5]: https://github.com/rmehri01/onenord-jetbrains/compare/v0.0.4...v0.0.5
 [0.0.4]: https://github.com/rmehri01/onenord-jetbrains/compare/v0.0.3...v0.0.4
 [0.0.3]: https://github.com/rmehri01/onenord-jetbrains/compare/v0.0.2...v0.0.3
 [0.0.2]: https://github.com/rmehri01/onenord-jetbrains/compare/v0.0.1...v0.0.2
