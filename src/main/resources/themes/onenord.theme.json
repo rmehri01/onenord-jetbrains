@@ -190,6 +190,10 @@
         "pressedBackground": "hl2"
       }
     },
+    "MemoryIndicator": {
+      "allocatedBackground": "hl4",
+      "usedBackground": "light_gray"
+    },
     "Notification": {
       "background": "hl0",
       "borderColor": "hl4",

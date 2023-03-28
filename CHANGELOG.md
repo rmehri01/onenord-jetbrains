@@ -6,6 +6,7 @@
 
 ### Added
 - Support for version 2023.1
+- Theming for the status bar memory indicator.
 
 ## [0.0.4] - 2023-02-27
 
