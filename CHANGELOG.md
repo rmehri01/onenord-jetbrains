@@ -4,6 +4,9 @@
 
 ## [Unreleased]
 
+### Fixed
+- Adjusted file colors to fix issues with data view toolbar. [#10](https://github.com/rmehri01/onenord-jetbrains/issues/10)
+
 ## [0.0.6] - 2023-06-05
 
 ### Added

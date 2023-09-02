@@ -143,12 +143,12 @@
       "underlinedTabBackground": "hl1"
     },
     "FileColor": {
-      "Yellow": "#BA793E20",
-      "Green": "#A3BE8C20",
-      "Blue": "#81A1C120",
-      "Violet": "#B988B020",
-      "Orange": "#BA793E20",
-      "Rose": "#E446751A"
+      "Yellow": "#3d3026",
+      "Green": "#293a24",
+      "Blue": "#24354f",
+      "Violet": "#2d1942",
+      "Orange": "#3d3026",
+      "Rose": "#3d1e2b"
     },
     "GotItTooltip": {
       "foreground": "fg",
