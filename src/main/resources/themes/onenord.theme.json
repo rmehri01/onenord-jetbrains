@@ -1,7 +1,7 @@
 {
-  "author": "Ryan Mehri",
-  "dark": true,
   "name": "OneNord",
+  "dark": true,
+  "author": "Ryan Mehri",
   "editorScheme": "/themes/onenord.xml",
   "colors": {
     "fg": "#C8D0E0",
@@ -30,19 +30,6 @@
     "hl2": "#3F4758",
     "hl3": "#434C5E",
     "hl4": "#4C566A"
-  },
-  "icons": {
-    "ColorPalette": {
-      "Checkbox.Background.Default.Dark": "#353B49",
-      "Checkbox.Border.Default.Dark": "#4C566A",
-      "Checkbox.Foreground.Selected.Dark": "#C8D0E0",
-      "Checkbox.Focus.Wide.Dark": "#5E81AC",
-      "Checkbox.Focus.Thin.Default.Dark": "#5E81AC",
-      "Checkbox.Focus.Thin.Selected.Dark": "#5E81AC",
-      "Checkbox.Background.Disabled.Dark": "#2A303B",
-      "Checkbox.Border.Disabled.Dark": "#3B4252",
-      "Checkbox.Foreground.Disabled.Dark": "#7E8491"
-    }
   },
   "ui": {
     "*": {
@@ -366,6 +353,19 @@
     "WelcomeScreen": {
       "separatorColor": "hl4",
       "SidePanel.background": "hl0"
+    }
+  },
+  "icons": {
+    "ColorPalette": {
+      "Checkbox.Background.Default.Dark": "#353B49",
+      "Checkbox.Border.Default.Dark": "#4C566A",
+      "Checkbox.Foreground.Selected.Dark": "#C8D0E0",
+      "Checkbox.Focus.Wide.Dark": "#5E81AC",
+      "Checkbox.Focus.Thin.Default.Dark": "#5E81AC",
+      "Checkbox.Focus.Thin.Selected.Dark": "#5E81AC",
+      "Checkbox.Background.Disabled.Dark": "#2A303B",
+      "Checkbox.Border.Disabled.Dark": "#3B4252",
+      "Checkbox.Foreground.Disabled.Dark": "#7E8491"
     }
   }
 }

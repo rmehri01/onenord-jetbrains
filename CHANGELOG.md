@@ -4,6 +4,10 @@
 
 ## [Unreleased]
 
+### Fixed
+
+- Editor colors not showing up properly on 2023.3.
+
 ## [0.1.0] - 2023-10-06
 
 ### Added
