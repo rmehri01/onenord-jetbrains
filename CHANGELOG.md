@@ -8,6 +8,10 @@
 
 - Support for version 2024.2
 
+### Changed
+
+- Changed minimum supported version to 2023.3 due to [intellij-platform-plugin-template issue #462](https://github.com/JetBrains/intellij-platform-plugin-template/issues/462)
+
 ## [0.1.2] - 2024-01-30
 
 ### Added
