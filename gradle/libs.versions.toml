@@ -1,9 +1,9 @@
 [versions]
-kotlin = "1.9.10"
-changelog = "2.2.0"
-gradleIntelliJPlugin = "1.17.0"
+kotlin = "1.9.25"
+changelog = "2.2.1"
+intelliJPlatform = "2.0.1"
 
 [plugins]
 changelog = { id = "org.jetbrains.changelog", version.ref = "changelog" }
-gradleIntelliJPlugin = { id = "org.jetbrains.intellij", version.ref = "gradleIntelliJPlugin" }
+intelliJPlatform = { id = "org.jetbrains.intellij.platform", version.ref = "intelliJPlatform" }
 kotlin = { id = "org.jetbrains.kotlin.jvm", version.ref = "kotlin" }
