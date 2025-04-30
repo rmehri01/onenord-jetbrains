@@ -4,6 +4,8 @@
 
 ## [Unreleased]
 
+## [0.1.6] - 2025-04-30
+
 ### Added
 
 - Support for version 2025.2
@@ -99,7 +101,8 @@ First automated release through GitHub Actions!
 - Initial UI and editor color theming, still subject to change so any suggestions are highly appreciated!
 - Initial support for most popular languages.
 
-[Unreleased]: https://github.com/rmehri01/onenord-jetbrains/compare/v0.1.5...HEAD
+[Unreleased]: https://github.com/rmehri01/onenord-jetbrains/compare/v0.1.6...HEAD
+[0.1.6]: https://github.com/rmehri01/onenord-jetbrains/compare/v0.1.5...v0.1.6
 [0.1.5]: https://github.com/rmehri01/onenord-jetbrains/compare/v0.1.4...v0.1.5
 [0.1.4]: https://github.com/rmehri01/onenord-jetbrains/compare/v0.1.3...v0.1.4
 [0.1.3]: https://github.com/rmehri01/onenord-jetbrains/compare/v0.1.2...v0.1.3
