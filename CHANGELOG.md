@@ -4,6 +4,8 @@
 
 ## [Unreleased]
 
+## [0.2.0] - 2025-12-14
+
 ### Added
 
 - Support for new islands theme
@@ -105,7 +107,8 @@ First automated release through GitHub Actions!
 - Initial UI and editor color theming, still subject to change so any suggestions are highly appreciated!
 - Initial support for most popular languages.
 
-[Unreleased]: https://github.com/rmehri01/onenord-jetbrains/compare/v0.1.6...HEAD
+[Unreleased]: https://github.com/rmehri01/onenord-jetbrains/compare/v0.2.0...HEAD
+[0.2.0]: https://github.com/rmehri01/onenord-jetbrains/compare/v0.1.6...v0.2.0
 [0.1.6]: https://github.com/rmehri01/onenord-jetbrains/compare/v0.1.5...v0.1.6
 [0.1.5]: https://github.com/rmehri01/onenord-jetbrains/compare/v0.1.4...v0.1.5
 [0.1.4]: https://github.com/rmehri01/onenord-jetbrains/compare/v0.1.3...v0.1.4
