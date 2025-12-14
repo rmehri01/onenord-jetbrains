@@ -4,6 +4,10 @@
 
 ## [Unreleased]
 
+### Added
+
+- Support for new islands theme
+
 ## [0.1.6] - 2025-04-30
 
 ### Added

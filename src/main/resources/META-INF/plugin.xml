@@ -9,5 +9,6 @@
 
     <extensions defaultExtensionNs="com.intellij">
         <themeProvider id="com.github.rmehri01.onenord" path="/themes/onenord.theme.json"/>
+        <themeProvider id="com.github.rmehri01.onenord-islands" path="/themes/onenord.islands.theme.json"/>
     </extensions>
 </idea-plugin>
