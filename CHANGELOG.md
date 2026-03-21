@@ -4,6 +4,11 @@
 
 ## [Unreleased]
 
+### Fixed
+
+- Set toolbar color to transparent
+- Upgrade dependencies
+
 ## [0.2.1] - 2026-03-21
 
 ### Fixed

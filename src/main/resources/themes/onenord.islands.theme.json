@@ -176,7 +176,7 @@
       "selectionForeground": "fg"
     },
     "MainToolbar": {
-      "background": "bg",
+      "background": "#00000000",
       "borderColor": "#00000000",
       "inactiveBackground": "bg",
       "Dropdown": {
@@ -377,15 +377,13 @@
   },
   "icons": {
     "ColorPalette": {
-      "Checkbox.Background.Default.Dark": "#353B49",
-      "Checkbox.Border.Default.Dark": "#4C566A",
-      "Checkbox.Foreground.Selected.Dark": "#C8D0E0",
-      "Checkbox.Focus.Wide.Dark": "#5E81AC",
-      "Checkbox.Focus.Thin.Default.Dark": "#5E81AC",
-      "Checkbox.Focus.Thin.Selected.Dark": "#5E81AC",
-      "Checkbox.Background.Disabled.Dark": "#2A303B",
-      "Checkbox.Border.Disabled.Dark": "#3B4252",
-      "Checkbox.Foreground.Disabled.Dark": "#7E8491"
+      "Checkbox.Background.Default": "#353B49",
+      "Checkbox.Border.Default": "#4C566A",
+      "Checkbox.Foreground.Selected": "#C8D0E0",
+      "Checkbox.Focus.Wide": "#5E81AC",
+      "Checkbox.Background.Disabled": "#2A303B",
+      "Checkbox.Border.Disabled": "#3B4252",
+      "Checkbox.Foreground.Disabled": "#7E8491"
     }
   }
 }
