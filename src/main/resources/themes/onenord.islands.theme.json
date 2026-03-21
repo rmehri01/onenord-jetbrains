@@ -176,7 +176,7 @@
       "selectionForeground": "fg"
     },
     "MainToolbar": {
-      "background": "#00000000",
+      "background": "bg_light",
       "borderColor": "#00000000",
       "inactiveBackground": "bg",
       "Dropdown": {

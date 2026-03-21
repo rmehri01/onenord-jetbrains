@@ -4,6 +4,10 @@
 
 ## [Unreleased]
 
+### Fixed
+
+- Use light bg for main toolbar
+
 ## [0.2.2] - 2026-03-21
 
 ### Fixed
