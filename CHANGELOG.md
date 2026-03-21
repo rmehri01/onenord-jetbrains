@@ -4,6 +4,10 @@
 
 ## [Unreleased]
 
+### Fixed
+
+- Set toolbar color to background color
+
 ## [0.2.0] - 2025-12-14
 
 ### Added
