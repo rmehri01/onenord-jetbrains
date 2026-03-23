@@ -296,6 +296,7 @@
       "errorForeground": "dark_red"
     },
     "StatusBar": {
+      "background": "bg_light",
       "borderColor": "#00000000"
     },
     "TabbedPane": {
@@ -349,7 +350,8 @@
         "hoverBackground": "hl2"
       },
       "Stripe": {
-        "borderColor" : "#00000000"
+        "background": "bg_light",
+        "borderColor": "#00000000"
       }
     },
     "Tree": {

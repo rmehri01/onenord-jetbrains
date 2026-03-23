@@ -4,6 +4,10 @@
 
 ## [Unreleased]
 
+### Fixed
+
+- Also use light bg for status and tool windows
+
 ## [0.2.3] - 2026-03-21
 
 ### Fixed
