@@ -4,6 +4,8 @@
 
 ## [Unreleased]
 
+## [0.2.4] - 2026-03-24
+
 ### Fixed
 
 - Also use light bg for status and tool windows
@@ -130,7 +132,8 @@ First automated release through GitHub Actions!
 - Initial UI and editor color theming, still subject to change so any suggestions are highly appreciated!
 - Initial support for most popular languages.
 
-[Unreleased]: https://github.com/rmehri01/onenord-jetbrains/compare/v0.2.3...HEAD
+[Unreleased]: https://github.com/rmehri01/onenord-jetbrains/compare/v0.2.4...HEAD
+[0.2.4]: https://github.com/rmehri01/onenord-jetbrains/compare/v0.2.3...v0.2.4
 [0.2.3]: https://github.com/rmehri01/onenord-jetbrains/compare/v0.2.2...v0.2.3
 [0.2.2]: https://github.com/rmehri01/onenord-jetbrains/compare/v0.2.1...v0.2.2
 [0.2.1]: https://github.com/rmehri01/onenord-jetbrains/compare/v0.2.0...v0.2.1
